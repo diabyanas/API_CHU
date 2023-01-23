@@ -1,3 +1,6 @@
+Le Script populateTables.py permet de remplir la base de donnée API_CHU_CAEN à partir du fichier data.json.
+
+Les tables de la base de données:
 ###  materiel
 
 De la forme -> [nom_du_produit, dimensions, etat]
